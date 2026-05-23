@@ -1,3 +1,3 @@
-# NotesApp Releases
+# to self releases
 
-This repository contains binary releases of NotesApp
+This repository contains binary releases of to self
